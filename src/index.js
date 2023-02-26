@@ -20,7 +20,6 @@ let simplelightbox = new SimpleLightbox('.js-gallery', {
     captions: true,
     captionsData: "alt",
     captionSelector: "img",
-    captionDelay: 250,
     captionPosition: "bottom"});
 
 
